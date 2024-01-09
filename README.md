@@ -1,3 +1,5 @@
+token git : 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
+
 Doc sur la demo GIT
 On doit ignorer tous les fichiers .pyc
 
